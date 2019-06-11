@@ -1,1 +1,3 @@
-let playlist = {}
+let playlist = {
+  'Jukebox The Ghost': 'Girl'
+}
