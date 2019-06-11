@@ -3,8 +3,8 @@ let playlist = {
 }
 
 
-function updatePlaylist(){
-  
+function updatePlaylist(playlist, artist, song){
+  playlist.artist = song
 }
 
 
